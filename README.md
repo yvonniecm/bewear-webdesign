@@ -1,6 +1,4 @@
-Here are the details for the project "BEWEAR. Be Exclusive, Be Devine, Be Yourself" website using HTML, CSS, and Bootstrap.
-
-**Project: BEWEAR Website**
+**Project: BEWEAR Website
 
 **Description:**
 BEWEAR is a fashion-focused website that aims to provide users with the latest trends in both women's and men's fashion. It features various sections including tips and tricks, blog posts, and detailed fashion advice. The website is designed using HTML, CSS, and Bootstrap for a modern, responsive design.
