@@ -30,5 +30,5 @@ BEWEAR is a fashion-focused website that aims to provide users with the latest t
 6. About Us Page (about-us.html)
 
 ## Access Links
-- **Website:** [BEWEAR Website](https://iboni-website.netlify.app/home-page)
+- **Website:** [BEWEAR Website](https://euphonious-youtiao-d599b1.netlify.app/)
 - **Other Works:** [Yvonnie's Portfolio](https://yvonnie-webdesign.carrd.co/)
